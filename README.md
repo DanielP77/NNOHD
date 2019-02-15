@@ -7,7 +7,7 @@
 
 #### Parameter Evaluation for Autoencoder (AE)
 
-Parameter $epsilon$ | Epochs $n^e$ | $D_{e, n^e$}
+Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/epsilon.png "Epsilon") | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png "n^e") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_epsilon_n_e.png "D_epsilon,n^e")
 ---|---|---
 0.1 | 10 | 
 0.1 | 20 | 
@@ -48,11 +48,11 @@ Parameter $epsilon$ | Epochs $n^e$ | $D_{e, n^e$}
 
 #### Parameter Evaluation for Restricted Boltzmann Machine (RBM)
 
-
+Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/delta.png "Delta") | Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/gamma.png "Gamma") | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png "n^e") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_delta_gamma_n_e.png "D_delta,gamma,n^e)
 
 #### Parameter Evaluation for Self-Organising Map (SOM)
 
-Parameter $n$ | Epochs $n^e$ | $D_{n, n^e$}
+Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/n.png "n") | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n.png "n") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_n_n_e.png "D_n,n^e")
 ---|---|---
 1 | 10 | 
 1 | 20 | 
