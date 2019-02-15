@@ -8,6 +8,7 @@
 #### Parameter Evaluation for Autoencoder (AE)
 
 Parameter $epsilon$ | Epochs $n^e$ | $D_{e, n^e$}
+---|---|---
 0.1 | 10 | 
 0.1 | 20 | 
 0.1 | 100 | 
@@ -52,6 +53,7 @@ Parameter $epsilon$ | Epochs $n^e$ | $D_{e, n^e$}
 #### Parameter Evaluation for Self-Organising Map (SOM)
 
 Parameter $n$ | Epochs $n^e$ | $D_{n, n^e$}
+---|---|---
 1 | 10 | 
 1 | 20 | 
 1 | 100 | 
