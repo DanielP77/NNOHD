@@ -441,5 +441,51 @@ Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/n.png "n") |
 
 ### Dataset Evaluation
 
+#### ROC AUC for High Dimensional Data Sets
+
+Data Set | AE | SOM | RBM | HiCS | LOF | FastABOD | LoOP | OC-SVM | KNN
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Arrhythmia-2 | **80.22** | 76.33 | 49.04 | 50.56 | 76.74 | 76.84 | 75.00 | 77.66 | 71.88
+Arrhythmia-5 |  |  |  |  |  |  |  |  | 
+Arrhythmia-10 |  |  |  |  |  |  |  |  | 
+Arrhythmia-20 |  |  |  |  |  |  |  |  | 
+Arrhythmia-46 |  |  |  |  |  |  |  |  | 
+InternetAds-2 | 43.36 | 66.12 | 46.93 | **99.84** | 71.64 | 76.49 | 77.14 | 64.18 | 81.23
+InternetAds-5 |  |  |  |  |  |  |  |  | 
+InternetAds-10 |  |  |  |  |  |  |  |  | 
+InternetAds-19 |  |  |  |  |  |  |  |  | 
+ISOLET-2 | 96.85 | *99.28* | 92.28 | 79.71 | **99.58** | 93.09 | 98.23 | 92.05 | 94.66
+ISOLET-4 |  |  |  |  |  |  |  |  | 
+ISOLET-8 |  |  |  |  |  |  |  |  | 
+ISOLET-14 |  |  |  |  |  |  |  |  | 
+ISOLET-20 |  |  |  |  |  |  |  |  | 
+MNIST | **82.06** | 81.07 | 49.87 | 51.74 | 80.34 | 54.35 | 71.66 | 76.46 | 72.74
+Musk | **100.00** | **100.00** | 95.60 | *99.60* | 84.00 | 5.11 | 51.86 | 67.60 | 7.11
+P53 | 60.63 | **67.17** | 64.76 | 62.09 | 61.99 | 62.92 | 61.99 | 61.27 | 62.56
+
+
+#### PR AUC for High Dimensional Data Sets
+
+Data Set | AE | SOM | RBM | HiCS | LOF | FastABOD | LoOP | OC-SVM | KNN
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+Arrhythmia-2 | **29.37** | 27.94 | 1.66 | 1.64 | 3.83 | 3.98 | 3.51 | 4.90 | 3.04
+Arrhythmia-5 |  |  |  |  |  |  |  |  | 
+Arrhythmia-10 |  |  |  |  |  |  |  |  | 
+Arrhythmia-20 |  |  |  |  |  |  |  |  | 
+Arrhythmia-46 |  |  |  |  |  |  |  |  | 
+InternetAds-2 | 1.58 | 32.78 | 1.91 | **94.52** | 34.86 | 32.79 | 3.51 | 4.90 | 3.04
+InternetAds-5 |  |  |  |  |  |  |  |  | 
+InternetAds-10 |  |  |  |  |  |  |  |  | 
+InternetAds-19 |  |  |  |  |  |  |  |  | 
+ISOLET-2 | 44.45 | 66.93 | 29.51 | 4.47 | **70.95** | 29.54 | 51.78 | 25.65 | 42.91
+ISOLET-4 |  |  |  |  |  |  |  |  | 
+ISOLET-8 |  |  |  |  |  |  |  |  | 
+ISOLET-14 |  |  |  |  |  |  |  |  | 
+ISOLET-20 |  |  |  |  |  |  |  |  | 
+MNIST | 30.13 | 27.40 | 9.26 | 9.99 | **33.95** | 14.05 | 24.74 | 25.49 | 27.96
+Musk | **100.00** | **100.00** | 85.58 | 97.46 | 14.68 | 1.65 | 3.71 | 4.54 | 1.91
+P53 | 1.04 | *1.29* | 1.20 | 1.25 | 1.06 | 1.13 | 1.06 | 1.06 | **1.30**
+
+
 
 ## Implementation Release
