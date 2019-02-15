@@ -48,7 +48,8 @@ Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/epsilon.png 
 
 #### Parameter Evaluation for Restricted Boltzmann Machine (RBM)
 
-Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/delta.png "Delta") | Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/gamma.png "Gamma") | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png "n^e") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_delta_gamma_n_e.png "D_delta,gamma,n^e)
+Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/delta.png "Delta") | Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/gamma.png "Gamma") | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png "n^e") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_delta_gamma_n_e.png "D_delta,gamma,n^e")
+---|---|---|---
 
 #### Parameter Evaluation for Self-Organising Map (SOM)
 
