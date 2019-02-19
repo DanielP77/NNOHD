@@ -41,7 +41,7 @@ In this section
 
 #### Parameter Evaluation for Autoencoder (AE)
 
-Parameter !(https://github.com/DanielP77/NNOHD/blob/master/images/epsilon.png) | Epochs !(https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png) | !(https://github.com/DanielP77/NNOHD/blob/master/images/D_epsilon_e_n.png)
+Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/epsilon.png "Epsilon") | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png "n^e") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_epsilon_n_e.png "D_{Epsilon, n^e}")
 ---|---|---
 0.4 | 10 | 0.
 0.4 | 20 | 0.
@@ -395,7 +395,7 @@ Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/delta.png "D
 
 #### Parameter Evaluation for Self-Organising Map (SOM)
 
-Parameter $n$ | Epochs $n^e$ | $D_{n, n^e$}
+Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/n.png "n}" | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png "n^e") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_n_n_e.png "D_{n, n^e}")
 ---|---|---
 1 | 10 | 0.0487
 1 | 20 | 0.0640
