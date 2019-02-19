@@ -532,4 +532,10 @@ Musk | **100.00** | **100.00** | 85.58 | 97.46 | 14.68 | 1.65 | 3.71 | 4.54 | 1.
 P53 | 1.04 | *1.29* | 1.20 | 1.25 | 1.06 | 1.13 | 1.06 | 1.06 | **1.30**
 
 
+#### Visualization
+
+##### ROC AUC and PR AUC for Arrhythmia-2
+
+![](https://github.com/DanielP77/NNOHD/blob/master/images/ROC_PR_Arrhythmia-2.png "ROC AUC and PR AUC for Arrhythmia-2")
+
 ## Implementation Release
