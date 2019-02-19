@@ -41,7 +41,7 @@ In this section
 
 #### Parameter Evaluation for Autoencoder (AE)
 
-Parameter <a href="https://www.codecogs.com/eqnedit.php?latex=\epsilon" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\epsilon" title="\epsilon" /></a> | Epochs <a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;n^e" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;n^e" title="\large n^e" /></a> | <a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;\mathcal{D}_{\epsilon,&space;n^e}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;\mathcal{D}_{\epsilon,&space;n^e}" title="\large \mathcal{D}_{\epsilon, n^e}" /></a>
+Parameter ![](https://github.com/DanielP77/NNOHD/blob/master/images/epsilon.png "Epsilon") | Epochs ![](https://github.com/DanielP77/NNOHD/blob/master/images/n_e.png "n^e") | ![](https://github.com/DanielP77/NNOHD/blob/master/images/D_epsilon_n_e.png "D_{Epsilon,n^e}")
 ---|---|---
 0.4 | 10 | 0.
 0.4 | 20 | 0.
